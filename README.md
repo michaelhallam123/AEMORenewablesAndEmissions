@@ -1,6 +1,6 @@
 # AEMO Renewables and Emissions
 
-In this Jupyter notebook, we take a brief look at energy data provided by the Australian Energy Market Operator (AEMO) over a 24-hour period on 2024/11/01. We focus on the spread of fuel sources in regions participating in the National Energy Market (NEM), the prevalence of renewables, and the greenhouse gas emissions over this period, producing the following plots:
+In this Jupyter notebook, we take a brief look at energy data provided by the Australian Energy Market Operator (AEMO) over a 24-hour period on 2024/11/01. We focus on the spread of fuel sources in regions participating in the National Electricity Market (NEM), the prevalence of renewables, and the greenhouse gas emissions over this period, producing the following plots:
 
 | | | 
 |:-------------------------:|:-------------------------:|
